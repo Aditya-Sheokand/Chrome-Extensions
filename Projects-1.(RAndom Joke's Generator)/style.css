@@ -1,0 +1,27 @@
+*{
+    margin:0px;
+    padding:0px;
+    
+}
+
+#outer-box{
+    margin:0px;
+    padding:0px;
+    height:auto;
+    width:150px;
+    background-image: linear-gradient(#ffafbd, #ffc3a0);
+    box-shadow: 2px solid black;
+}
+
+#jokeElements{
+   text-align: center;
+   font-size:medium;
+   
+
+}
+#nameboy{
+    
+    text-align: center;
+   font-size:medium;
+
+}
